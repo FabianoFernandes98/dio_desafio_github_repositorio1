@@ -1,2 +1,2 @@
-# dio_desafio_github_repositorio1
-desafio de projeto git\github 01
+# dio_desafio_github_01
+Repositorio criado para o desafio de projeto.
